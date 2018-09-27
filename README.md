@@ -1,2 +1,2 @@
 # tm
-Aulas de Tecnologias para Mobilidade, usando Cordova.
+Aula de Tecnologias para Mobilidade, usando Cordova.
